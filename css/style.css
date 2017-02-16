@@ -1,0 +1,24 @@
+body{font-family:"MyriadProRegular";font-size:12.3px;height:2000px;}
+h1{font-size:23px;padding-top:38px;font-weight:normal;margin:auto;}
+.center{margin:auto;position:relative;height:746px;width:519px;}
+.background3, .background2, .background1{border-width:2px;border-style:solid;height:100%;width:100%;position:absolute;}
+.bookmark_3, .bookmark_2, .bookmark_1{border-width:2px;border-style:solid;border-radius:0px 10px 10px 0px;position:absolute;width:91px;height:31px;top:41px;}
+.background3{top:7.5em;left:8%;background-color:rgb(172, 172, 172);}
+.bookmark_3{background-color:rgb(0, 174, 239);left:439px;}
+.background2{background-color:rgb(204, 204, 204);top:6em;left:4%;}
+.bookmark_2{background-color:rgb(57, 181, 54);left:472px;}
+.background1{padding:0px 0px 0px 0px;top:4.5em;background-color:rgb(235, 235, 235);}
+.bookmark_1{background-color:rgb(246, 142, 86);left:490px;width:108px;}
+.background1 *:not(.bookmark_1){padding-right:30px;padding-left:30px;}
+.img1{float:left;padding:15px 23px 15px;}
+.img2{position:sticky;float:right;padding-top:15px;padding-left:4px!important;}
+.img3{padding-bottom:15px;}
+.p1{position:static;margin:auto;padding-top:10px;}
+.p2{position:static;margin:auto;}
+.p3{font-size:9px;margin:auto;text-align:center;}
+h2{font-weight:normal;font-size:18.5px;position:static;padding-top:30px;}
+.social_links{border-width:1px;border-style:solid;background-color:rgb(251, 175, 93);position:fixed;right:0%;bottom:7.3%;width:87px;height:69px;}
+.social_links>p{position:absolute;padding-top:8px;padding-left:11px;margin:auto;font-size:16px;}
+.social_links>a{position:absolute;top:32px;left:4px;}
+.instagram{left:60px!important;}
+.twitter{left:32px!important;}
